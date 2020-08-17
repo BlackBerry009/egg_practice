@@ -1,0 +1,264 @@
+{
+  "keys": "/Users/luoyungui/Documents/自己的github管理/egg_practice/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "name": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "devDependencies": {
+      "egg-bin": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    },
+    "name": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "version": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "main": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "author": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "license": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "description": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "strict": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "depth": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "env": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "level": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "logging": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "port": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/egg/config/config.default.js"
+}

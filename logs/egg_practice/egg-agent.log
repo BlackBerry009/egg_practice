@@ -1,0 +1,55 @@
+2020-08-15 14:22:38,727 INFO 10877 [egg:logger] init all loggers with options: {"dir":"/Users/luoyungui/Documents/自己的github管理/egg_practice/logs/egg_practice","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_practice-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-08-15 14:22:38,733 INFO 10877 [egg:core] dump config after load, 3ms
+2020-08-15 14:22:38,774 INFO 10877 [egg-watcher] Start watching: ["/Users/luoyungui/Documents/自己的github管理/egg_practice/app","/Users/luoyungui/Documents/自己的github管理/egg_practice/config","/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks","/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks_proxy","/Users/luoyungui/Documents/自己的github管理/egg_practice/app.js"]
+2020-08-15 14:22:38,774 INFO 10877 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/app"
+2020-08-15 14:22:38,775 INFO 10877 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/config"
+2020-08-15 14:22:38,775 INFO 10877 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks"
+2020-08-15 14:22:38,775 INFO 10877 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks_proxy"
+2020-08-15 14:22:38,775 INFO 10877 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/app.js"
+2020-08-15 14:22:38,775 INFO 10877 [egg-watcher:agent] watcher start success
+2020-08-15 14:22:38,790 INFO 10877 [egg:core] dump config after ready, 4ms
+2020-08-15 14:22:39,375 INFO 10877 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/luoyungui/Documents/自己的github管理/egg_practice/app/public","stat":{"dev":16777223,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4307481,"size":64,"blocks":0,"atimeMs":1597472559363.7705,"mtimeMs":1597472559363.7705,"ctimeMs":1597472559363.7705,"birthtimeMs":1597472559363.7705,"atime":"2020-08-15T06:22:39.364Z","mtime":"2020-08-15T06:22:39.364Z","ctime":"2020-08-15T06:22:39.364Z","birthtime":"2020-08-15T06:22:39.364Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-08-15 14:23:08,037 INFO 10896 [egg:logger] init all loggers with options: {"dir":"/Users/luoyungui/Documents/自己的github管理/egg_practice/logs/egg_practice","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_practice-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-08-15 14:23:08,043 INFO 10896 [egg:core] dump config after load, 3ms
+2020-08-15 14:23:08,083 INFO 10896 [egg-watcher] Start watching: ["/Users/luoyungui/Documents/自己的github管理/egg_practice/app","/Users/luoyungui/Documents/自己的github管理/egg_practice/config","/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks","/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks_proxy","/Users/luoyungui/Documents/自己的github管理/egg_practice/app.js"]
+2020-08-15 14:23:08,083 INFO 10896 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/app"
+2020-08-15 14:23:08,083 INFO 10896 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/config"
+2020-08-15 14:23:08,083 INFO 10896 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks"
+2020-08-15 14:23:08,083 INFO 10896 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/mocks_proxy"
+2020-08-15 14:23:08,085 INFO 10896 [egg-watcher] Start watching: "/Users/luoyungui/Documents/自己的github管理/egg_practice/app.js"
+2020-08-15 14:23:08,085 INFO 10896 [egg-watcher:agent] watcher start success
+2020-08-15 14:23:08,101 INFO 10896 [egg:core] dump config after ready, 4ms
+2020-08-15 14:23:32,696 WARN 10896 [agent:development] reload worker because /Users/luoyungui/Documents/自己的github管理/egg_practice/app/controller/home.js change
+2020-08-15 14:23:32,490 INFO 10896 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/luoyungui/Documents/自己的github管理/egg_practice/app/controller/home.js","stat":{"dev":16777223,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4251038,"size":184,"blocks":8,"atimeMs":1597472604825.3894,"mtimeMs":1597472612403.4802,"ctimeMs":1597472612403.4802,"birthtimeMs":1597471160634.003,"atime":"2020-08-15T06:23:24.825Z","mtime":"2020-08-15T06:23:32.403Z","ctime":"2020-08-15T06:23:32.403Z","birthtime":"2020-08-15T05:59:20.634Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-08-16 02:26:58,599 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 43265108ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
+2020-08-16 03:00:08,009 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 1989382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
+2020-08-16 03:37:24,739 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 2216722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
+2020-08-16 08:31:22,540 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 17637793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+

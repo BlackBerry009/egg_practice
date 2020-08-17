@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  },
+  "dependencies": {
+    "egg": "^2.27.0"
+  },
+  "name": "egg_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

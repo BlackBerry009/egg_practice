@@ -1,0 +1,33 @@
+2020-08-15 14:23:08,581 INFO 10897 [egg:logger] init all loggers with options: {"dir":"/Users/luoyungui/Documents/自己的github管理/egg_practice/logs/egg_practice","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_practice-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-15 14:23:08,603 INFO 10897 [egg-multipart] stream mode enable
+2020-08-15 14:23:08,670 INFO 10897 [egg-static] starting static serve /public/ -> /Users/luoyungui/Documents/自己的github管理/egg_practice/app/public
+2020-08-15 14:23:08,672 INFO 10897 [egg-security] use csrf middleware
+2020-08-15 14:23:08,673 INFO 10897 [egg-security] use methodnoallow middleware
+2020-08-15 14:23:08,674 INFO 10897 [egg-security] use noopen middleware
+2020-08-15 14:23:08,675 INFO 10897 [egg-security] use nosniff middleware
+2020-08-15 14:23:08,675 INFO 10897 [egg-security] use xssProtection middleware
+2020-08-15 14:23:08,676 INFO 10897 [egg-security] use xframe middleware
+2020-08-15 14:23:08,676 INFO 10897 [egg-security] use dta middleware
+2020-08-15 14:23:08,676 INFO 10897 [egg-security] compose 7 middlewares into one security middleware
+2020-08-15 14:23:08,684 INFO 10897 [egg:core] dump config after load, 4ms
+2020-08-15 14:23:08,695 INFO 10897 [egg-watcher:application] watcher start success
+2020-08-15 14:23:08,703 INFO 10897 [egg:core] dump config after ready, 6ms
+2020-08-15 14:23:33,222 INFO 10905 [egg:logger] init all loggers with options: {"dir":"/Users/luoyungui/Documents/自己的github管理/egg_practice/logs/egg_practice","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_practice-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-15 14:23:33,245 INFO 10905 [egg-multipart] stream mode enable
+2020-08-15 14:23:33,310 INFO 10905 [egg-static] starting static serve /public/ -> /Users/luoyungui/Documents/自己的github管理/egg_practice/app/public
+2020-08-15 14:23:33,313 INFO 10905 [egg-security] use csrf middleware
+2020-08-15 14:23:33,314 INFO 10905 [egg-security] use methodnoallow middleware
+2020-08-15 14:23:33,315 INFO 10905 [egg-security] use noopen middleware
+2020-08-15 14:23:33,316 INFO 10905 [egg-security] use nosniff middleware
+2020-08-15 14:23:33,317 INFO 10905 [egg-security] use xssProtection middleware
+2020-08-15 14:23:33,320 INFO 10905 [egg-security] use xframe middleware
+2020-08-15 14:23:33,320 INFO 10905 [egg-security] use dta middleware
+2020-08-15 14:23:33,320 INFO 10905 [egg-security] compose 7 middlewares into one security middleware
+2020-08-15 14:23:33,329 INFO 10905 [egg:core] dump config after load, 4ms
+2020-08-15 14:23:33,338 INFO 10905 [egg-watcher:application] watcher start success
+2020-08-15 14:23:33,344 INFO 10905 [egg:core] dump config after ready, 4ms
+2020-08-16 02:26:58,595 WARN 10905 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-16 03:00:08,009 WARN 10905 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-16 03:37:24,738 WARN 10905 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-16 08:31:22,549 WARN 10905 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-08-16 08:31:22,550 WARN 10905 [ClusterClient:Watcher] follower closed, and try to init it again

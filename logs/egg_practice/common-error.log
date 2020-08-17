@@ -1,0 +1,32 @@
+2020-08-16 02:26:58,595 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 43265108ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
+2020-08-16 03:00:08,007 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 1989382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
+2020-08-16 03:37:24,738 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 2216722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
+2020-08-16 08:31:22,539 ERROR 10896 nodejs.ClusterClientNoResponseError: client no response in 17637793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/luoyungui/Documents/自己的github管理/egg_practice/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:551:17)
+    at processTimers (internal/timers.js:494:7)
+name: "ClusterClientNoResponseError"
+pid: 10896
+hostname: 钢蛋
+
